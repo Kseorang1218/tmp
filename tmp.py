@@ -1,2 +1,4 @@
-def say_hello():
-    print("hi")
+print("hi")
+print("not")
+print("..........")
+print("asljudhs")
