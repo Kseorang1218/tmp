@@ -1,4 +1,2 @@
-print("hi")
-print("not")
-print("..........")
-print("asljudhs")
+def say_hello():
+    print("hi")
